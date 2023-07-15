@@ -1,0 +1,7 @@
+C:\Users\miran\Desktop\CSCI 234\Week 10\Week 10 Codes\ch13ex10\ch13ex10\bin\Debug\ch13ex10.exe.config
+C:\Users\miran\Desktop\CSCI 234\Week 10\Week 10 Codes\ch13ex10\ch13ex10\bin\Debug\ch13ex10.exe
+C:\Users\miran\Desktop\CSCI 234\Week 10\Week 10 Codes\ch13ex10\ch13ex10\bin\Debug\ch13ex10.pdb
+C:\Users\miran\Desktop\CSCI 234\Week 10\Week 10 Codes\ch13ex10\ch13ex10\obj\Debug\ch13ex10.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234\Week 10\Week 10 Codes\ch13ex10\ch13ex10\obj\Debug\ch13ex10.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234\Week 10\Week 10 Codes\ch13ex10\ch13ex10\obj\Debug\ch13ex10.exe
+C:\Users\miran\Desktop\CSCI 234\Week 10\Week 10 Codes\ch13ex10\ch13ex10\obj\Debug\ch13ex10.pdb
